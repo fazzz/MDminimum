@@ -1,10 +1,10 @@
 #
-# Makefile for MD_NHC_MP1996
+# Makefile for MD_minimum
 #
 
-HOME=/Users/yamamoriyuu/Box Sync/Research (fromambertozen@gmail.com)/mac/works/programs/C/MDminimum/src
+HOME=.
 SRC=.
-BIN=../bin
+BIN=.
 
 LIBDIR= #-L../lib
 INCDIR= #-I../include
